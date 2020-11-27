@@ -1,0 +1,15 @@
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\MilanEmailWebApiApplication\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\MilanEmailWebApiApplication\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\MilanEmailWebApiApplication\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\MilanEmailWebApiApplication\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\MilanEmailWebApiApplication\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\MilanEmailWebApiApplication\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\MilanEmailWebApiApplication\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\MilanEmailWebApiApplication\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\MilanEmailWebApiApplication\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\MilanEmailWebApiApplication\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\MilanEmailWebApiApplication\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\MilanEmailWebApiApplication\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\MilanEmailWebApiApplication\Data\bin\Debug\netcoreapp3.1\Domain_Models.dll
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\MilanEmailWebApiApplication\Data\bin\Debug\netcoreapp3.1\Domain_Models.pdb
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\MilanEmailWebApiApplication\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete

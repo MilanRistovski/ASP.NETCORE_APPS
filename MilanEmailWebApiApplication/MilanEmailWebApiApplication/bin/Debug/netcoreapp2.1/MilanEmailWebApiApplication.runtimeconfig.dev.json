@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Milan CRMT\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Milan CRMT\\.nuget\\packages"
+    ]
+  }
+}
