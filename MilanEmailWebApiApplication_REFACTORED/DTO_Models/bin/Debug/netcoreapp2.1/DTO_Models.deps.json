@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "DTO_Models/1.0.0": {
+        "dependencies": {
+          "Domain_Models": "1.0.0"
+        },
+        "runtime": {
+          "DTO_Models.dll": {}
+        }
+      },
+      "Domain_Models/1.0.0": {
+        "runtime": {
+          "Domain_Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DTO_Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain_Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

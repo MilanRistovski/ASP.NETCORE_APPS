@@ -1,0 +1,415 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\MilanEmailWebApiApplication\\MilanEmailWebApiApplication.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\Data\\Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\Data\\Data.csproj",
+        "projectName": "Data",
+        "projectPath": "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\Milan CRMT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Milan CRMT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\Domain_Models\\Domain_Models.csproj": {
+                "projectPath": "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\Domain_Models\\Domain_Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\Domain_Models\\Domain_Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\Domain_Models\\Domain_Models.csproj",
+        "projectName": "Domain_Models",
+        "projectPath": "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\Domain_Models\\Domain_Models.csproj",
+        "packagesPath": "C:\\Users\\Milan CRMT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\Domain_Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Milan CRMT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\DTO_Models\\DTO_Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\DTO_Models\\DTO_Models.csproj",
+        "projectName": "DTO_Models",
+        "projectPath": "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\DTO_Models\\DTO_Models.csproj",
+        "packagesPath": "C:\\Users\\Milan CRMT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\DTO_Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Milan CRMT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\Domain_Models\\Domain_Models.csproj": {
+                "projectPath": "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\Domain_Models\\Domain_Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\Mappings\\Mappings.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\Mappings\\Mappings.csproj",
+        "projectName": "Mappings",
+        "projectPath": "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\Mappings\\Mappings.csproj",
+        "packagesPath": "C:\\Users\\Milan CRMT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\Mappings\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Milan CRMT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\DTO_Models\\DTO_Models.csproj": {
+                "projectPath": "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\DTO_Models\\DTO_Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\MilanEmailWebApiApplication\\MilanEmailWebApiApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\MilanEmailWebApiApplication\\MilanEmailWebApiApplication.csproj",
+        "projectName": "MilanEmailWebApiApplication",
+        "projectPath": "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\MilanEmailWebApiApplication\\MilanEmailWebApiApplication.csproj",
+        "packagesPath": "C:\\Users\\Milan CRMT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\MilanEmailWebApiApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Milan CRMT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\Services\\Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\Milan CRMT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Milan CRMT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\Data\\Data.csproj"
+              },
+              "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\DTO_Models\\DTO_Models.csproj": {
+                "projectPath": "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\DTO_Models\\DTO_Models.csproj"
+              },
+              "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\Mappings\\Mappings.csproj": {
+                "projectPath": "C:\\Users\\Milan CRMT\\Desktop\\BackEnd Projects\\MilanEmailWebApiApplication_REFACTORED\\Mappings\\Mappings.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

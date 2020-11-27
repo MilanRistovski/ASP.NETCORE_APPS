@@ -1,0 +1,9 @@
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\MilanEmailWebApiApplication\Mappings\bin\Debug\netcoreapp3.1\Mappings.deps.json
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\MilanEmailWebApiApplication\Mappings\bin\Debug\netcoreapp3.1\Mappings.dll
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\MilanEmailWebApiApplication\Mappings\bin\Debug\netcoreapp3.1\Mappings.pdb
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\MilanEmailWebApiApplication\Mappings\obj\Debug\netcoreapp3.1\Mappings.csprojAssemblyReference.cache
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\MilanEmailWebApiApplication\Mappings\obj\Debug\netcoreapp3.1\Mappings.csproj.CoreCompileInputs.cache
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\MilanEmailWebApiApplication\Mappings\obj\Debug\netcoreapp3.1\Mappings.AssemblyInfoInputs.cache
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\MilanEmailWebApiApplication\Mappings\obj\Debug\netcoreapp3.1\Mappings.AssemblyInfo.cs
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\MilanEmailWebApiApplication\Mappings\obj\Debug\netcoreapp3.1\Mappings.dll
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\MilanEmailWebApiApplication\Mappings\obj\Debug\netcoreapp3.1\Mappings.pdb
