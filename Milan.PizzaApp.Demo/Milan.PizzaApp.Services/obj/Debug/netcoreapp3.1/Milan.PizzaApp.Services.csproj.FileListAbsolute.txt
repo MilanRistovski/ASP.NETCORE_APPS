@@ -1,0 +1,12 @@
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\Milan.PizzaApp.Demo\Milan.PizzaApp.Services\bin\Debug\netcoreapp3.1\Milan.PizzaApp.Services.deps.json
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\Milan.PizzaApp.Demo\Milan.PizzaApp.Services\bin\Debug\netcoreapp3.1\Milan.PizzaApp.Services.dll
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\Milan.PizzaApp.Demo\Milan.PizzaApp.Services\bin\Debug\netcoreapp3.1\Milan.PizzaApp.Services.pdb
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\Milan.PizzaApp.Demo\Milan.PizzaApp.Services\obj\Debug\netcoreapp3.1\Milan.PizzaApp.Services.csprojAssemblyReference.cache
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\Milan.PizzaApp.Demo\Milan.PizzaApp.Services\obj\Debug\netcoreapp3.1\Milan.PizzaApp.Services.AssemblyInfoInputs.cache
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\Milan.PizzaApp.Demo\Milan.PizzaApp.Services\obj\Debug\netcoreapp3.1\Milan.PizzaApp.Services.AssemblyInfo.cs
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\Milan.PizzaApp.Demo\Milan.PizzaApp.Services\obj\Debug\netcoreapp3.1\Milan.PizzaApp.Services.dll
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\Milan.PizzaApp.Demo\Milan.PizzaApp.Services\obj\Debug\netcoreapp3.1\Milan.PizzaApp.Services.pdb
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\Milan.PizzaApp.Demo\Milan.PizzaApp.Services\bin\Debug\netcoreapp3.1\Milan.PizzaApp.DataAccess.dll
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\Milan.PizzaApp.Demo\Milan.PizzaApp.Services\bin\Debug\netcoreapp3.1\Milan.PizzaApp.DataAccess.pdb
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\Milan.PizzaApp.Demo\Milan.PizzaApp.Services\obj\Debug\netcoreapp3.1\Milan.PizzaApp.Services.csproj.CopyComplete
+C:\Users\Milan CRMT\Desktop\BackEnd Projects\Milan.PizzaApp.Demo\Milan.PizzaApp.Services\obj\Debug\netcoreapp3.1\Milan.PizzaApp.Services.csproj.CoreCompileInputs.cache
